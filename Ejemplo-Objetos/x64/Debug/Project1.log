@@ -1,0 +1,23 @@
+﻿  Source.cpp
+F:\Herencia\Ejemplo-Objetos\Source.cpp(161,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(162,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(163,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(164,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(165,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(168,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(169,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(170,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(171,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(172,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(184,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(185,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(186,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(187,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(188,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(191,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(192,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(193,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(194,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(195,1): warning C4566: el carácter representado por el nombre de carácter universal '\u2588' no se puede representar en la página de códigos actual (1252)
+F:\Herencia\Ejemplo-Objetos\Source.cpp(204,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Project1.vcxproj -> F:\Herencia\Ejemplo-Objetos\x64\Debug\Project1.exe
